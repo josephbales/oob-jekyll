@@ -7,4 +7,4 @@ comments: true
 categories: [Food]
 tags: []
 ---
-Fruit and nut day when pretty well.  I had watermelon, apples, walnuts, and peanut butter.  I'm still just drinking water too.
+Fruit and nut day when pretty well. I had watermelon, apples, walnuts, and peanut butter. I'm still just drinking water too.
