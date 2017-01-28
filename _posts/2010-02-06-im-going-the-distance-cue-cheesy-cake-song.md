@@ -13,7 +13,7 @@ When I get there, I only stretch for a few seconds. I feel self conscious about 
 
 I think part of my leg problems might be due to the shoes I am wearing. I have some New Balance running shoes I got on clearance and I'm not confident they are giving me the support I need. I also have some [Brooks](http://www.brooksrunning.com/) Addiction 7 running shoes that I've had a for a few years that I wear to work. On Tuesday I think I'm going to give them a try and see how they work. If they do work out better, I might start wearing the clearance sale shoes to work and my $100 running shoes to run. What a novel idea!
 
-Again I walked five minutes and jogged one minute with the last jogging session being two minutes for a total of 14 minutes jogging. On Tuesday I plan to walk four minutes and jog one minute and I might bump my Thursday session up to four miles a couple weeks ahead of [schedule](http://joeyshealth.wordpress.com/2010/01/26/training-schedule/) if I think it is prudent.
+Again I walked five minutes and jogged one minute with the last jogging session being two minutes for a total of 14 minutes jogging. On Tuesday I plan to walk four minutes and jog one minute and I might bump my Thursday session up to four miles a couple weeks ahead of [schedule](http://outofbreath.org/training/2010/01/26/training-schedule.html) if I think it is prudent.
 
 **Training update:**
 Exercise: Walked and jogged 6 miles in 1 hour 20 minutes and 21 seconds (4.48 mph)
