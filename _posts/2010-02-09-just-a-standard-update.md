@@ -7,7 +7,7 @@ comments: true
 categories: [Training]
 tags: []
 ---
-Nothing new to report today.  I upped my walking/jogging ratio to 4:1 for a total of 8 minutes jogging.
+Nothing new to report today. I upped my walking/jogging ratio to 4:1 for a total of 8 minutes jogging.
 
 **Training update:**
 Weight: 240.6 lbs (1.4 lbs lost since last week)
