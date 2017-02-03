@@ -18,4 +18,4 @@ I've also decided to participate in the [Weekend Warriors Challenge](http://solo
 1. Run at least two miles after getting off work Friday morning at a 10:55 or better pace.
 2. No alcohol, beer, or fast food from from Friday through Sunday.
 3. Map out a safe route and run from my apartment in Hermitage to my best friend's apartment in Nashville (this should be almost exactly 13.1 miles) on Saturday.
-4. Man up and run 4 miles on Sunday.Some pretty good goals, huh? A tip of the hat to Scott at [MinusFiveTimesTen](http://minus5times10.wordpress.com/) for pointing me to the challenge. I'll post my results on Monday.
+4. Man up and run 4 miles on Sunday. Some pretty good goals, huh? A tip of the hat to Scott at [MinusFiveTimesTen](http://minus5times10.wordpress.com/) for pointing me to the challenge. I'll post my results on Monday.
