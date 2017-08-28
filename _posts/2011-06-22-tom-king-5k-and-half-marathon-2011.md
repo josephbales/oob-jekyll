@@ -2,12 +2,9 @@
 layout: post
 title: "Tom King 5K and Half Marathon 2011"
 date: 2011-06-22 11:28
-author: Joey
-comments: true
-categories: [Running]
-tags: [2011, 5K, half marathon, racing, Tom King]
+categories: [blog]
 ---
-[caption id="attachment_450" align="alignleft" width="150" caption="Goin&#039; for the gold!"][Tom King 5K and Half Marathon](http://tomkingclassic.com) I ran back in March. That's right, I said AND.  I ran them both... on the same day.  It seemed like a good idea when I signed up.
+I'm back!  I'll post an update about what's been going on the past few months, but first, let me do a race report about the [Tom King 5K and Half Marathon](http://tomkingclassic.com) I ran back in March. That's right, I said AND.  I ran them both... on the same day.  It seemed like a good idea when I signed up.
 
 The first thing that was bad was that I hadn't trained for over a month before running these races.  Also, I had put on some weight.  These are not really a good combination before going out to run the longest distance you've ever run... in case you were wondering. Nevertheless, I had paid my money and wanted to get my run on, so I went out and did it.
 

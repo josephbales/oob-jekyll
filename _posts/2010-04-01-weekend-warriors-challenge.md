@@ -2,14 +2,11 @@
 layout: post
 title: "Weekend Warriors Challenge"
 date: 2010-04-01 16:12
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 After getting my butt kicked today on my first 80 degree day run, I thought I'd give a bit of an update.
 
-First, I totally went out and did the butt kicking on Sunday, running 8 miles and doing 10K of it in less than my goal time of 1:10:00. I'm not sure exactly what my time was, but I know that I did 6.25 miles in 1:09:00ish time, so it was maybe in the 1:08:00 range. This was a big win after my little [disaster on Saturday](http://outofbreath.org/life/2010/03/27/clinically-insane.html).
+First, I totally went out and did the butt kicking on Sunday, running 8 miles and doing 10K of it in less than my goal time of 1:10:00. I'm not sure exactly what my time was, but I know that I did 6.25 miles in 1:09:00ish time, so it was maybe in the 1:08:00 range. This was a big win after my little [disaster on Saturday]({{ site.baseurl }}{% post_url 2010-03-27-clinically-insane %}).
 
 I've had some pretty typical runs since then until today. It was over 80&deg; when I started running today and it really sapped my energy starting at about mile 2.5 (of a 5 mile run). I ended up walking the last mile just so I wouldn't keel over and die of heat exhaustion on the greenway. I'm thinking I need to start running in the early morning again to avoid the heat of the day and cut down on my sun exposure.
 

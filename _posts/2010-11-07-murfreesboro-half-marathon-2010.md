@@ -2,12 +2,9 @@
 layout: post
 title: "Murfreesboro Half Marathon 2010"
 date: 2010-11-07 16:46
-author: Joey
-comments: true
-categories: [Running]
-tags: [half marathon, Murfreesboro, PR, race report, racing]
+categories: [blog]
 ---
-[MTSU](http://mtsu.edu) campus and winds its way through Murfreesboro, TN.  It passes several historic places including the Oaklands Mansion (a famous historic landmark) and Davis Market (a famous place for college kids to buy beer and rolling papers).
+If you are looking for a great half marathon for a PR, this is the race for you.  It is small, extremely flat, and at just the right time of year for decent weather.  My race morning was a bit brisk, but as you runners know, it doesn't take long to warm up in a race no matter what the temperature might be.  The race course starts and finishes on the [MTSU](http://mtsu.edu) campus and winds its way through Murfreesboro, TN.  It passes several historic places including the Oaklands Mansion (a famous historic landmark) and Davis Market (a famous place for college kids to buy beer and rolling papers).
 
 I started this race 10lbs heavier and with almost no training under my belt since the Chicago half marathon I did on August 1.  Naturally I did not expect to do very well and wasn't planning on taking this race very seriously.  My main goal was to finish under 2:30:00 which was 12 minutes over my PR.  It was just going to be a fun run and for most of the race that's exactly what it was.  Up through mile 9 I rarely checked my watch and mainly chatted with other racers, watched the cheerleaders, and thought about my old college days at MTSU.  At mile 6 I even stopped and took a rather lengthy bathroom break.
 

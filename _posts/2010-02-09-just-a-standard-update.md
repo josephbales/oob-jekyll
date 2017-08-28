@@ -2,10 +2,7 @@
 layout: post
 title: "Just a standard update"
 date: 2010-02-09 17:11
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 Nothing new to report today. I upped my walking/jogging ratio to 4:1 for a total of 8 minutes jogging.
 

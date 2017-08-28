@@ -2,10 +2,7 @@
 layout: post
 title: "Bad weather, it's my friend"
 date: 2010-03-02 08:17
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 I've flip-flopped my running schedule a bit. Before the change I was going to bed right after work and running when I got up in the afternoon (I work nights). I'm going to try running in the mornings before I go to sleep to see how it works out.
 

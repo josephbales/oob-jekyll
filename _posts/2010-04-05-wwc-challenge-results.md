@@ -2,13 +2,9 @@
 layout: post
 title: "WWC challenge results"
 date: 2010-04-05 18:15
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 And now for the results.  I did pretty good, but did not reach 100% of my goals.
-
 
 1.  **Run at least two miles after getting off work Friday morning at a 10:55 or better pace.** - I did this, but just barely. I ran 3.02 miles in 32:58 for a pace of exactly 10:55.
 2.  **No alcohol, beer, or fast food from from Friday through Sunday.** - I'm calling this one half busted.  I didn't drink any beer or alcohol, but I did get a pizza delivered and ate at a chinese buffet.  The spirit of this one was to make good eating choices and I didn't do that.

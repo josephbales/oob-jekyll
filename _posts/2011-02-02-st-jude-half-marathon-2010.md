@@ -2,12 +2,9 @@
 layout: post
 title: "St. Jude Half Marathon 2010"
 date: 2011-02-02 04:54
-author: Joey
-comments: true
-categories: [Running]
-tags: [half marathon, race report, racing, St. Jude]
+categories: [blog]
 ---
-[caption id="attachment_433" align="alignleft" width="300" caption="&quot;Where am I going?&quot;"]<a href="http://outofbreath.org/wp-content/uploads/2011/02/stjude.jpg">![](http://outofbreath.org/wp-content/uploads/2011/02/stjude.jpg "stjude")</a>[/caption] This race report is way, WAY overdue. Sorry about that. The race actually took place on December 4, 2010. I traveled down to Memphis the night before and stayed with my friends Jason and Melissa.  After getting to bed late and getting up super early, I headed to downtown Memphis.
+This race report is way, WAY overdue. Sorry about that. The race actually took place on December 4, 2010. I traveled down to Memphis the night before and stayed with my friends Jason and Melissa.  After getting to bed late and getting up super early, I headed to downtown Memphis.
 
 The race starts just outside Autozone Park (the minor league baseball field in Memphis), and ends in the park itself.  I was really impressed with the amount of close, cheap parking that was available.  The weather was brisk, but not too cold so I stashed my jacket and pants in my gear bag and left them at the bag drop.  I wandered around a bit and ran into my Nashville running buddies Joe and Karen.  They were planning on doing the full marathon.  We chatted for a moment and then went our separate ways.
 

@@ -2,10 +2,7 @@
 layout: post
 title: "8 mile and Tom King 5K"
 date: 2010-02-20 19:28
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 I hoping to rope in a few unsuspecting Eminem fans with that title. Actually, it looks like today is [8 mile](http://www.backofthepackrunning.com/2010/02/i-am-pretty-sure-this-is-our-last-hill.html) [day](http://runwithemily.blogspot.com/2010/02/running-uphill-is-great.html) in the Nashville run blogging community. Today was my 8 mile day as well, so I'm thinking we are probably following similar training schedules.
 

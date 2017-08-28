@@ -2,10 +2,7 @@
 layout: post
 title: "I'm on a plateau"
 date: 2010-03-23 18:07
-author: Joey
-comments: true
-categories: [Weightloss]
-tags: []
+categories: [blog]
 ---
 Well, the good news is that my weight is at 227.2 lbs which is a loss of 35.8 lbs since my January 1st weight of 263.0 lbs. The bad news is that it is also the same weight I posted two weeks ago. I'm officially on a weight loss plateau. I've never really had to deal with this situation before and I'm not quite sure how to handle it, although I do have a few ideas.
 

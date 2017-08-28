@@ -2,12 +2,9 @@
 layout: post
 title: "Some July 2011 goals"
 date: 2011-07-03 14:49
-author: Joey
-comments: true
-categories: [Training]
-tags: [goals, running, short term, weightloss]
+categories: [blog]
 ---
-[caption id="attachment_484" align="alignleft" width="150" caption="Eyes on the prize"][last post](http://outofbreath.org/2011/06/27/so-what-happened/) was all about my long term yearly goals. Today I'm going to set some short term health related goals.
+My [last post]({{ site.baseurl }}{% post_url 2011-06-27-so-what-happened %}) was all about my long term yearly goals. Today I'm going to set some short term health related goals.
 
 My first goal is for the race I have coming up tomorrow.  It's the Firecracker 5K in Brentwood and my main goal is sub-30 minutes (a 9:38 min/mile pace). This is based on my training runs of late and I am confident in my ability to reach this goal in a safe and injury free manner.  My stretch goal will be a time under 29 minutes (a 9:20 pace).  I've done some intervals at that pace, but I'm not certain I can maintain it for the entire length of the race and remain injury free.
 

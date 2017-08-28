@@ -2,12 +2,9 @@
 layout: post
 title: "My shoes are dead, long live my shoes"
 date: 2010-07-23 20:05
-author: Joey
-comments: true
-categories: [Equipment]
-tags: [Brooks, mileage, New Balance, shoes]
+categories: [blog]
 ---
-[New Balance 760s](http://www.newbalance.com/products/MR760/).  I bought them back in February of this year (2010) and they have been serving as my only pair of running shoes ever since. They've been serving me adequately, but here lately I've begun to suspect that they aren't as fresh as they once were. I've been having some minor shin and foot pain and I've really been able to feel a lot more detail about the road surface. I had planned to wait until 500 miles to buy new shoes, but this week I decided that I'd go ahead and try to get some new ones after I ticked over 450 miles.
+I've only owned one pair of running shoes since I started running.  They are the [New Balance 760s](http://www.newbalance.com/products/MR760/).  I bought them back in February of this year (2010) and they have been serving as my only pair of running shoes ever since. They've been serving me adequately, but here lately I've begun to suspect that they aren't as fresh as they once were. I've been having some minor shin and foot pain and I've really been able to feel a lot more detail about the road surface. I had planned to wait until 500 miles to buy new shoes, but this week I decided that I'd go ahead and try to get some new ones after I ticked over 450 miles.
 
 I headed over to the [running store](http://www.fleetfeetnashville.com/) today to check out what they had.  I showed the guy helping me my old shoes and he looked them over and asked if I wanted the same ones and I told him I wanted to try some others on to see what they felt like.  He brought out a couple of pairs and when I tried on the first ones and took them for and experimental jog, I immediately realized that my old shoes where completely dead.  The first ones were Brooks and they felt good, but were a bit snug.  I tried some Nike shoes next that felt okay, but I wasn't sure about them, they were also a bit snug.  I then asked to try some Sauconys that I had tried the first time I bought shoes as well as a new pair of NB 760s just to see what new ones felt like.  I didn't care for the 760s, but the Sauconys were nice and I was about to settle on them, but asked to try on some wider Brooks.  After trying the Brooks on, I decided that they beat out the Sauconys by a narrow margin.
 

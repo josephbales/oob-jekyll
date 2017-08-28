@@ -2,10 +2,7 @@
 layout: post
 title: "Added that Wednesday run"
 date: 2010-02-25 18:53
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 I added the Wednesday run I talked about in my last post. I did 2.5 miles, running the entire distance. I'm pretty proud of that (it's the farthest I've ever run at one time) and the pace I was on put me at my goal of running a sub-40 minute 5K. That was a pretty good workout and I think I will keep a 2 to 2.5 mile run in my rotation.
 

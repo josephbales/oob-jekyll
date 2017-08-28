@@ -2,10 +2,7 @@
 layout: post
 title: "Country Music Half Marathon 2010"
 date: 2010-04-28 17:41
-author: Joey
-comments: true
-categories: [Running]
-tags: [CMM, first half marathon, half marathon, race report, racing]
+categories: [blog]
 ---
 Well, this was my goal race.  I finished it and I wasn't swept away by a tornado, so I suppose that's a big win for me.  But things didn't go as well as I would have hoped.
 

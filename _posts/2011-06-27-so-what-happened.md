@@ -2,18 +2,13 @@
 layout: post
 title: "&quot;So what happened?&quot;"
 date: 2011-06-27 13:56
-author: Joey
-comments: true
-categories: [Life]
-tags: [2011, depression, getting back on track, goals, too much work]
+categories: [blog]
 ---
-[caption id="attachment_473" align="alignleft" width="150" caption="Where&#039;d he go?"]<a href="http://outofbreath.org/wp-content/uploads/2011/06/wheres-waldo.jpg">![](http://outofbreath.org/wp-content/uploads/2011/06/wheres-waldo-150x150.jpg "wheres-waldo")</a>[/caption] So everyone's been saying, "It's good to see you running again."  And believe me, it's good to be running again, but they almost always follow up with a, "So what happened?" I can't blame them really. One day I'm kicking along in top gear, the next, I'm gone from the face of the planet. For me, this happens sometimes. Work really got me down this time. I was working 60 hours a week every week and that's pretty much all I was doing. I was just plain wore out when I got home and usually spent my weekends catching up on sleep. My food choices got to be horrendous and I tacked on 25 lbs from my weight in early February.
+So everyone's been saying, "It's good to see you running again."  And believe me, it's good to be running again, but they almost always follow up with a, "So what happened?" I can't blame them really. One day I'm kicking along in top gear, the next, I'm gone from the face of the planet. For me, this happens sometimes. Work really got me down this time. I was working 60 hours a week every week and that's pretty much all I was doing. I was just plain wore out when I got home and usually spent my weekends catching up on sleep. My food choices got to be horrendous and I tacked on 25 lbs from my weight in early February.
 
 Fortunately, things started to turn around.  Management decided that they were paying too much in overtime, so they put a cap on our hours to just 40 per week. Once this was implemented, my mood greatly improved and I started waking up to the fact of how much I'd let myself go.  Having taken all my "fat" pants to Goodwill last year, it was getting to the point where I was going to have to either buy bigger pants, or lose weight. Weight loss won out in that equation. In late May I began running again.  It was slow and painful, but I did it. By mid June I had decided that it was time to start counting calories again. Things are finally starting to get back on track after my major derailment.
 
-So here's an update on my [goals that I posted](http://outofbreath.org/2011/01/01/2010-recap-2011-preview/) earlier in the year. Some things will be out the window as I've just waited to long in the year to get going on them, but others have already been attained or are still attainable.
-
-
+So here's an update on my [goals that I posted]({{ site.baseurl }}{% post_url 2011-01-01-2010-recap-2011-preview %}) earlier in the year. Some things will be out the window as I've just waited to long in the year to get going on them, but others have already been attained or are still attainable.
 
 *   Reach my goal weight of 160 lbs (lose 60 lbs) - <span style="color:#ff0000;">I've actually gone backwards on this. My new goal is to be below 200 lbs before October 15.</span>
 *   Run 840 miles for the year - <span style="color:#ff0000;">It will be difficult, but I think I can actually do this one so it is still on the table.</span>

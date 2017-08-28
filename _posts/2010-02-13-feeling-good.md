@@ -2,12 +2,9 @@
 layout: post
 title: "Feeling good"
 date: 2010-02-13 21:34
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
-My [last post](http://outofbreath.org/training/2010/02/11/good-and-bad-news.html) was pretty bleak. I was suffering from shin splints and behind the scenes I was worried that my training might be in jeopardy. Untreated shin splints can lead to stress fractures and can also mean weeks of recovery. To do my best to prevent this, I made the hard decision to stop running and just walk the 7 miles I had scheduled for today.
+My [last post]({{ site.baseurl }}{% post_url 2010-02-11-good-and-bad-news %}) was pretty bleak. I was suffering from shin splints and behind the scenes I was worried that my training might be in jeopardy. Untreated shin splints can lead to stress fractures and can also mean weeks of recovery. To do my best to prevent this, I made the hard decision to stop running and just walk the 7 miles I had scheduled for today.
 
 I started today by not stretching and just walking slow for the first half mile. I had a little pain, but it quickly vanished and I turned up the speed. Things went well until I got about two miles into my walk. Just past the 2.25 mile marker the trail was flooded, so I couldn't go to the 2.5 marker as planned. I briefly considered just forgetting the 0.5 miles I'd lose considering the shin splint situation, but I decided that I would instead challenge myself by repeating the long slope between the 1.75 and 2.0 mile markers.
 

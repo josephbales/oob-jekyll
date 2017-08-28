@@ -2,10 +2,7 @@
 layout: post
 title: "Taking a day off"
 date: 2010-03-11 18:17
-author: Joey
-comments: true
-categories: [Life]
-tags: []
+categories: [blog]
 ---
 I decided not to do my 4 mile run today. I'm already nursing a pulled tendon or muscle of some sort in my back and when I woke up today my left leg was pretty sore. With the Tom King 5K coming up Saturday morning, I decided to take a day off from running and let my body catch its breath.
 

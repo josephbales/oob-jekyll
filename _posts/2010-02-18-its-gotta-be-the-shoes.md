@@ -2,10 +2,7 @@
 layout: post
 title: "It's gotta be the shoes"
 date: 2010-02-18 20:12
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 Today was my second day out with my new shoes from [Fleet Feet Sports](http://fleetfeetnashville.com/). I have to say that the leg pain I've been experiencing was not as bad today and it *could* be the shoes. Of course it could be the other things I'm doing differently as well.
 

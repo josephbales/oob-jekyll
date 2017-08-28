@@ -2,10 +2,7 @@
 layout: post
 title: "To the limit"
 date: 2010-02-27 16:23
-author: Joey
-comments: true
-categories: [Life]
-tags: []
+categories: [blog]
 ---
 Today's schedule called for 6 miles and 6 miles is what it got. A series of gaffs, omissions, and barriers made today's workout a real challenge. Before I even left the house, I failed to limber myself up with [The Stick](http://www.thestick.com/). This has become part of my workout and something that is apparently even more important than I thought. To compound this mistake, I only did a very short warm-up walk. Dumb!
 
