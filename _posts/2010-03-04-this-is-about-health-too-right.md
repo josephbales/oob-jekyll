@@ -2,10 +2,7 @@
 layout: post
 title: "This is about health too, right?"
 date: 2010-03-04 09:31
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 Lately I've been incredibly focused on two things, running and losing weight. Up until yesterday I was doing pretty good at both. I've lost 30 pounds since January 1 and I've steadily increased the speed and amount I can run. But that all came crashing down yesterday morning.
 

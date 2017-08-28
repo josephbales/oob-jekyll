@@ -2,10 +2,7 @@
 layout: post
 title: "Mile a day challenge"
 date: 2010-07-01 07:20
-author: Joey
-comments: true
-categories: [Training]
-tags: [challenges, Garmin Forerunner 305, mile a day, Nike+]
+categories: [blog]
 ---
 Okay, here's a challenge that is so easy to do that I might mess it up by just forgetting about it.  The challenge is to run or walk at least one mile every day for the month of July.  I'm doing it *because* it is easy and it gives me a goal to work towards.  Also, it will help get me up and running every day so that I am less inclined to be lazy.  Day 1 is already in the books with a 5K run at [Mill Creek Greenway](http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=114351316891271919778.0004506a5987fc9a01803&amp;t=h&amp;z=16).  I didn't get this challenge from any other web site, I just made it up this morning while driving home from work.  If anyone decides to do this one, let me know in the comments.
 

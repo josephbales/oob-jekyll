@@ -2,10 +2,7 @@
 layout: post
 title: "Good and bad news"
 date: 2010-02-11 14:18
-author: Joey
-comments: true
-categories: [Training]
-tags: [injuries]
+categories: [blog]
 ---
 Well, the good news is that I did a new personal record for 3 miles today. I think Thursday is my good day. The details are below.
 

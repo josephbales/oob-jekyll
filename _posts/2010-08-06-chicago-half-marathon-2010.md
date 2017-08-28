@@ -2,14 +2,11 @@
 layout: post
 title: "Chicago Half Marathon 2010"
 date: 2010-08-06 07:55
-author: Joey
-comments: true
-categories: [Running]
-tags: [Chicago, half marathon, PR, race report, racing]
+categories: [blog]
 ---
 Better late than never, here is my race report for the [Rock N' Roll Chicago Half Marathon 2010](http://chicago.competitor.com) on August 1, 2010.
 
-[previous experience](http://joeyshealth.wordpress.com/2010/04/28/country-music-half-marathon-2010/) with half marathons, I booked a hotel room close to the start/finish line.
+I signed up for this half marathon before even having run my first half marathon.  It was on a whim and mainly due to the fact that I wanted to visit Chicago (and also I had a discount code).  Given my [previous experience]({{ site.baseurl }}{% post_url 2010-04-28-country-music-half-marathon-2010 %}) with half marathons, I booked a hotel room close to the start/finish line.
 
 After a good night's sleep, I trekked over the the starting area and checked my gear bag (with 1 towel, 1 bottle of water, and 1 clean shirt).  I then milled around the starting corrals looking for [Emily](http://runwithemily.blogspot.com/) with no luck, so I finally just went and sat on the curb in my own corral.  After the pre-race formalities the race began and my waiting began.  This race was HUGE and so it took about 30 minutes for me to actually make it to the starting line.  So there was a lot of standing around and listening to interviews with celebrities, most of which I'd never heard of (Al Roker, NBC weatherman, ran the race in 3:20:58. I blew him away).  My corral finally got to the front and we started off.
 

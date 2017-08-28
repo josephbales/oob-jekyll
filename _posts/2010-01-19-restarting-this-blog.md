@@ -2,10 +2,7 @@
 layout: post
 title: "Restarting this blog"
 date: 2010-01-19 15:13
-author: Joey
-comments: true
-categories: [Life]
-tags: []
+categories: [blog]
 ---
 After only a few posts I abandoned this blog (and my quest for good health). I'm picking up where I left off two and a half years ago. I'm still overweight and still struggling to get healthy. Since the beginning of this year, I have really been watching how much food I have been eating. Notice I said "how much" and not "what." Right now I feel like it is much more important to reduce the overall amount of food I take in rather than try to eat only foods that I deem healthy.
 

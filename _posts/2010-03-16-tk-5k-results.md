@@ -2,10 +2,7 @@
 layout: post
 title: "TK 5K results"
 date: 2010-03-16 18:26
-author: Joey
-comments: true
-categories: [Running]
-tags: [5K, race report, racing, Tom King]
+categories: [blog]
 ---
 So I finished off the TK 5K this weekend. I showed up a bit early to meet up with a [fellow Nashville running blogger, Joe](http://www.backofthepackrunning.com/), before the race. He gave me some encouragement and showed me what to do with the timing chip (just zip tie it to your shoe, duh!). Then they called the runners over to the start line.
 

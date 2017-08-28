@@ -2,10 +2,7 @@
 layout: post
 title: "Long awaited update"
 date: 2010-03-09 15:18
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 Sorry about not posting on Saturday as I normally would. I've started running every day and it's hard to tell which day is a posting day and which isn't. I might have to set myself a reminder.
 

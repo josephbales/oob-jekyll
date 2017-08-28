@@ -2,10 +2,7 @@
 layout: post
 title: "Stupid health stunt #1"
 date: 2007-08-16 19:53
-author: Joey
-comments: true
-categories: [Food]
-tags: []
+categories: [blog]
 ---
 I decided that today would be bread and water day. So it's nothing but bread and water today. Actually it's toast, but close enough. I'm eating Wheat Wonder Bread Lite toasted in a regular toaster. I've been having some digestive problems lately and thought this would be a good way to settle my stomach. So far it seems to be working, but I have heard some rumbling that I don't like.
 

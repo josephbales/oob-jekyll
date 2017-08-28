@@ -2,10 +2,7 @@
 layout: post
 title: "RC Cola and Moon Pie 10 Miler"
 date: 2010-06-22 09:02
-author: Joey
-comments: true
-categories: [Running]
-tags: [big hills, moon pies, race report, racing, rc cola]
+categories: [blog]
 ---
 Well, it's another race in the books, the RC Cola and Moon Pie Festival 10 Mile Race (that's a long name!).  The day started out with me rolling out a little later than I wanted as per usual.  I still got there in plenty of time and totally passed up the $5 parking next to downtown Bell Buckle to park free a half mile a way.  I walked down to the finish line to pick up my bib number and timing chip and I also got a t-shirt.  I thought about skipping the t-shirt and the walk to take it back to my car, but it had an RC Cola and a Moon Pie dancing on the front.  How can I pass that up?
 

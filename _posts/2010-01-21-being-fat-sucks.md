@@ -2,10 +2,7 @@
 layout: post
 title: "Being fat sucks"
 date: 2010-01-21 17:43
-author: Joey
-comments: true
-categories: [Weightloss]
-tags: []
+categories: [blog]
 ---
 I was thinking today as I was walking that being fat really sucks. It makes you feel bad, ruins your self esteem, makes it hard to find clothing that fits, and makes it hard to do anything athletic. I think being not fat is probably the best way to go.
 

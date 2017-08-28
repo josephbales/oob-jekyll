@@ -2,12 +2,9 @@
 layout: post
 title: "An explanation"
 date: 2010-12-18 10:20
-author: Joey
-comments: true
-categories: [Training]
-tags: [new maths, training schedule]
+categories: [blog]
 ---
-![](http://outofbreath.org/wp-content/uploads/2010/12/question_mark.jpg?w=107 "question_mark") My brother asked me where I came up with my training schedule that I showed in my [last post](http://outofbreath.org/2010/12/15/training-schedule-2011/). Was it an App? Did I use the new maths? No, I didn't. The short answer is that I made it up. Shocking, I know, but there was a method to the madness.
+My brother asked me where I came up with my training schedule that I showed in my [last post]({{ site.baseurl }}{% post_url 2010-12-15-training-schedule-2011 %}). Was it an App? Did I use the new maths? No, I didn't. The short answer is that I made it up. Shocking, I know, but there was a method to the madness.
 
 First, I took a look at my goals and previous training experience and decided to work from there. I knew I wanted to run 4 days a week.  I thought about making it 5 days, but from previous experience, I know that I start to get aches and pains running 5 or more days a week on a consistent basis (probably due to weight).  I also wanted to run in the 20 to 25 miles a week range. Another consideration was my goal of running a 5K and half marathon double. I wanted to make sure I'd have enough mileage to prepare for that.
 

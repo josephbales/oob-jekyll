@@ -2,10 +2,7 @@
 layout: post
 title: "The side stitches strike back"
 date: 2010-03-20 17:50
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 Today was the day on my schedule to do 11 miles. This distance was scary for me. It was 2 miles farther than I've ever run at one time. I wasn't looking forward to this yesterday, especially after I stayed out late drinking last night. 11 miles dehydrated and with a hangover cannot be a good thing.
 

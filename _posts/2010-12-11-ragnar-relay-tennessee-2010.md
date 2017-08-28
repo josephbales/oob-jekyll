@@ -2,12 +2,9 @@
 layout: post
 title: "Ragnar Relay Tennessee 2010"
 date: 2010-12-11 09:18
-author: Joey
-comments: true
-categories: [Running]
-tags: [Chattanooga, Nashville, race report, racing, ragnar, relay, van travel]
+categories: [blog]
 ---
-[Ragnar Relay](http://www.ragnarrelay.com/).  It all started on a cold fall evening in November near Vanderbilt in Nashville.  Our team of 12 runners (and two drivers), met up for the drive down to Chattanooga for the start of the race the following morning. Our team consisted of runners [Joe](http://www.backofthepackrunning.com/2010/12/dont-stop-now.html), [Emily](http://runwithemily.blogspot.com/2010/11/ragnar-relay-tennessee-what-adventure.html), Chrystyna, Ryan, Gail and Karen with drivers Nicole and Mark in van 1.  Runners Victoria, Lou, Derek, Phil, Erin, and yours truly with driver Byron filled out van 2.  The runners in van 1 would run legs 1-6, 13-18, and 25-30, while van 2 would run 7-12, 19-24, and 31-36.  My personal legs were 10, 22, and 34.
+ I'm running a bit behind on my race reports.  This one details my adventures in rural East and Middle Tennessee running the [Ragnar Relay](http://www.ragnarrelay.com/).  It all started on a cold fall evening in November near Vanderbilt in Nashville.  Our team of 12 runners (and two drivers), met up for the drive down to Chattanooga for the start of the race the following morning. Our team consisted of runners [Joe](http://www.backofthepackrunning.com/2010/12/dont-stop-now.html), [Emily](http://runwithemily.blogspot.com/2010/11/ragnar-relay-tennessee-what-adventure.html), Chrystyna, Ryan, Gail and Karen with drivers Nicole and Mark in van 1.  Runners Victoria, Lou, Derek, Phil, Erin, and yours truly with driver Byron filled out van 2.  The runners in van 1 would run legs 1-6, 13-18, and 25-30, while van 2 would run 7-12, 19-24, and 31-36.  My personal legs were 10, 22, and 34.
 
 After a stop over in Murfreesboro for some pre-race pasta, we continued down to Chattanooga to get our hotel at around 9 or 10pm.  After settling on sleeping arrangements, I announced that I was going to head out to seek something to drink.  Phil offered to go with me and asked what I wanted to drink.  I said, "I really want a beer."  He said, "I knew I was walking with the right guy."  After a night filled with, obscure brews, stinky bums, stolen darts, women with wiffle ball bats, and a possible wholesale steel deal, Phil and I ended up in the hotel swimming pool at 5am waving to van 1 as they left to go running.  We then headed upstairs to catch a few zees before heading off to run our legs a few hours later.
 

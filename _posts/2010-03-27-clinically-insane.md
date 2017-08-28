@@ -2,14 +2,11 @@
 layout: post
 title: "Clinically insane"
 date: 2010-03-27 20:06
-author: Joey
-comments: true
-categories: [Life]
-tags: []
+categories: [blog]
 ---
 I've heard that the definition of insane is repeating the same actions over and over again and expecting a different result each time. If that is the case then I must be insane.
 
-I [bonked](http://en.wikipedia.org/wiki/Hitting_the_wall) again today, and for good reason. I decided to do my 8 mile run without having eaten in 14 hours and without having had anything to drink except half a bottle of water. I've tried this sort of [foolishness before](http://outofbreath.org/training/2010/03/04/this-is-about-health-too-right.html) and had similar results.
+I [bonked](http://en.wikipedia.org/wiki/Hitting_the_wall) again today, and for good reason. I decided to do my 8 mile run without having eaten in 14 hours and without having had anything to drink except half a bottle of water. I've tried this sort of [foolishness before]({{ site.baseurl }}{% post_url 2010-03-04-this-is-about-health-too-right %}) and had similar results.
 
 Today's running started out pretty well. I had just run my first 10 minute mile the day before and felt good about how my pace was progressing. The plan for today was to run the first 6.2 miles at a 11:15ish pace as a test for the [Dairy Dash 10K](http://www.puritydairies.com/dairydash/) on April 10. I'd then slow up or walk the last 1.8 miles to get the milage in. I was pretty confident I wouldn't have any problems, but that turned out not to be the case.
 

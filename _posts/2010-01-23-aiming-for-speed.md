@@ -2,10 +2,7 @@
 layout: post
 title: "Aiming for speed"
 date: 2010-01-23 13:52
-author: Joey
-comments: true
-categories: [Training]
-tags: []
+categories: [blog]
 ---
 My plan is to walk the [Nashville 1/2 marathon](http://nashville.competitor.com/) in April (the 24th to be exact). Actually, I plan to walk it in under 3.5 hours. But now I'm thinking I might be able to walk it in 3 hours. This would require me to walk at a pace of 4.3667 mph. So as part of my training, I decided to start aiming for speed as well as distance.
 

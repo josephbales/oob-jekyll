@@ -2,10 +2,7 @@
 layout: post
 title: "Equipped to run (almost)"
 date: 2010-02-02 17:38
-author: Joey
-comments: true
-categories: [Equipment]
-tags: []
+categories: [blog]
 ---
 Today I tried out two new pieces of equipment on my walk/jog. The first piece were may brand new pants that I bought last week. I actually wore them on Saturday, but since it was so cold I also wore some of my giant old jogging pants over them. Today I used them solo and the new pants work GREAT! They didn't budge an inch while I was on my walk, even while I was jogging. They also don't make an annoying "swish-swish" sound which is a plus in my book.
 
