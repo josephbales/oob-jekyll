@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eating Is Not a Primary Concern
+categories: [blog]
 ---
 
 Okay, so it is time to let living in the first world work to my advantage. There is no reason for eating to be my primary concern. I think all day about what my next meal is going to be. The first thing I think of when I’m going to be home alone is what can I stuff in my mouth while the wife’s not looking? It’s kinda ridiculous (especially since she usually doesn’t care what I eat).
