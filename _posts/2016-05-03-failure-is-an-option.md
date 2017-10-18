@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Failure is an Option
+categories: [blog]
 ---
 
 Well, I’m back where I started. After my last post I quickly spiraled back into my old eating and non-exercising patterns. I also stopped posting here.

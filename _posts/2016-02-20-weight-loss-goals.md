@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weight Loss Goals
+categories: [blog]
 ---
 
 I will keep this simple, for your sake and mine. My weight loss goals are very straight forward.
