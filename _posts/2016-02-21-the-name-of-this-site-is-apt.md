@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Name of This Site is Apt
+categories: [blog]
 ---
 
 Here’s a link to a talk about what happens to your fat when you lose weight.
