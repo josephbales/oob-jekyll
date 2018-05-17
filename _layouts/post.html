@@ -3,21 +3,21 @@ layout: default
 ---
 
 <div class="post">
-    <a class="post__back" href="{{ "/" | prepend: site.github.url }}">&lt;-- home</a>
+    <div class="page-nav">
+        {% if page.previous.url %}
+        <a class="btn btn-outline-light btn-sm" role="button" href="{{page.previous.url}}">Previous</a>
+        {% if page.next.url %}
+        |
+        {% endif %}
+        {% endif %}
+        {% if page.next.url %}
+        <a class="btn btn-outline-light btn-sm" role="button" href="{{page.next.url}}">Next</a>
+        {% endif %}
+        <hr>
+    </div>
     <h1 class="post__title">{{ page.title }}</h1>
     <p class="post__date">{{ page.date | date: '%B %-d, %Y' }}</p>
     <div class="post__content"?>
         {{ content }}
-    </div>
-    <div class="page-nav">
-      {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">&lt;-- Previous</a>
-        {% if page.next.url %}
-         | 
-        {% endif %}
-      {% endif %}
-      {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">Next --&gt;</a>
-      {% endif %}
     </div>
 </div>
