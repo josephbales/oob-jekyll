@@ -2,15 +2,30 @@
 layout: default
 ---
 
-{% include header.html %}
-
-<div class="blog">
-    <h1>Blog Posts:</h1>
-    <ul>
-        {% for post in site.posts %}
-        <li>
-            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+<div class="random-post">
+    <div class="row">
+        <div class="col-xl-12">
+            <h1>A Random Post from the Archives <button id="showAnotherRandomPost" class="btn btn-outline-light btn-sm">Show Another</button></h1>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="carouselRandomPostTitles"
+                 class="carousel slide"
+                 data-ride="carousel">
+                <div id="carouselInnerRandomPostTitles" class="carousel-inner"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12">
+            <p class="random-post-date"></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="random-post-content"></div>
+        </div>
+    </div>
 </div>

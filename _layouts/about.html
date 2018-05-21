@@ -2,12 +2,14 @@
 layout: default
 ---
 
-
-
-<div class="about">
-    <a class="about__back" href="{{ "/" | prepend: site.github.url }}">&lt;-- back</a>
-    <h1 class="about__title">About Me:</h1>
-    <div class="about__content">
+<div class="about container">
+    <div class="row">
+        <div class="col-xl-12"><h1 class="about-title">About</h1></div>
+    </div>
+    <div class="about-content row">
         {{ content }}
+    </div>
+    <div class="main-oobguy-container row">
+        <img src="{{ site.github.url }}/assets/img/oob-dude.png" class="main-oobguy" alt="The Out of Breath Guy" />
     </div>
 </div>
