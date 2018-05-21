@@ -54,3 +54,9 @@
 .nav-link {
   text-transform: uppercase;
 }
+
+.carousel-inner .custom-carousel-item {
+  transition: -webkit-transform 10ms ease;
+  transition: transform 10ms ease;
+  transition: transform 10ms ease, -webkit-transform 10ms ease;
+}

@@ -1,12 +1,31 @@
 ---
 layout: default
 ---
-<div class="main-oobguy-container row">
-    <img src="{{ site.github.url }}/assets/img/oob-dude.png" class="main-oobguy" alt="The Out of Breath Guy" />
-</div>
-<div class="row random-post">
-    <h1>Random Post</h1>
-    <h2 id="random-post-title"></h2>
-    <h3 id="random-post-date"></h3>
-    <div id="random-post-content"></div>
+
+<div class="random-post">
+    <div class="row">
+        <div class="col-xl-12">
+            <h1>A Random Post from the Archives <button id="showAnotherRandomPost" class="btn btn-outline-light btn-sm">Show Another</button></h1>
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12">
+            <div id="carouselRandomPostTitles"
+                 class="carousel slide"
+                 data-ride="carousel">
+                <div id="carouselInnerRandomPostTitles" class="carousel-inner"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12">
+            <p class="random-post-date"></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12">
+            <div class="random-post-content"></div>
+        </div>
+    </div>
 </div>
