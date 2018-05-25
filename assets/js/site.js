@@ -40,17 +40,19 @@ $(function() {
 
         var reorderedData = firstDataChunk.concat(lastDataChunk);
 
-        _blogTitleSpinner(reorderedData, randInt);
+        //_blogTitleSpinner(reorderedData, randInt);
 
         var lastPost = reorderedData.pop();
 
-        $('.carousel').carousel({
+        _getBlogContent(lastPost);
+
+        /*$('.carousel').carousel({
             interval: 10,
             pause: false,
             wrap: false
         })
 
-        setTimeout(function(){ _getBlogContent(lastPost); }, 35 * data.length);
+        setTimeout(function(){ _getBlogContent(lastPost); }, 35 * data.length);*/
     }
 
     function _getTitle(item, index) {
@@ -74,7 +76,8 @@ $(function() {
     function _getBlogContent(post) {
         $.get(post.url, function(data) {
             var _html = $(data);
-            $('.random-post-date').text('Post Date: ' + post.date);
+            $('.random-post-title').html(post.title);
+            $('.random-post-date').html('Post Date: ' + post.date);
             $('.random-post-content').html(_html.find('.post-content').html());
         });
     }
